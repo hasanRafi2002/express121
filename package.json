@@ -4,15 +4,19 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "nodemon server.js"
   },
   "author": "rafi",
   "license": "ISC",
   "dependencies": {
+    "cors": "^2.8.5",
     "dotenv": "^16.4.7",
     "express": "^4.21.2"
   },
   "engines": {
     "node": "20.7.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
   }
 }

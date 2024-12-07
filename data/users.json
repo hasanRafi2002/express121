@@ -1,0 +1,100 @@
+[{
+    "id": 1,
+    "name": "John Doe",
+    "country": "USA",
+    "dateOfBirth": "1990-01-15",
+    "email": "john.doe@example.com",
+    "phone": "+1-202-555-0123",
+    "profession": "Software Engineer",
+    "hobbies": ["Reading", "Traveling", "Cycling"]
+},
+{
+    "id": 2,
+    "name": "Jane Smith",
+    "country": "Canada",
+    "dateOfBirth": "1985-07-22",
+    "email": "jane.smith@example.com",
+    "phone": "+1-416-555-0456",
+    "profession": "Data Scientist",
+    "hobbies": ["Painting", "Hiking", "Cooking"]
+},
+{
+    "id": 3,
+    "name": "Ahmed Khan",
+    "country": "Pakistan",
+    "dateOfBirth": "1993-05-10",
+    "email": "ahmed.khan@example.com",
+    "phone": "+92-300-555-1234",
+    "profession": "Graphic Designer",
+    "hobbies": ["Photography", "Gaming", "Writing"]
+},
+{
+    "id": 4,
+    "name": "Li Wei",
+    "country": "China",
+    "dateOfBirth": "1998-11-30",
+    "email": "li.wei@example.com",
+    "phone": "+86-10-555-6789",
+    "profession": "Mechanical Engineer",
+    "hobbies": ["Robotics", "Sketching", "Swimming"]
+},
+{
+    "id": 5,
+    "name": "Maria Garcia",
+    "country": "Spain",
+    "dateOfBirth": "1995-09-12",
+    "email": "maria.garcia@example.com",
+    "phone": "+34-600-555-9876",
+    "profession": "Marketing Specialist",
+    "hobbies": ["Dancing", "Photography", "Volunteering"]
+},
+{
+    "id": 6,
+    "name": "Emmanuel Okoro",
+    "country": "Nigeria",
+    "dateOfBirth": "1990-03-18",
+    "email": "emmanuel.okoro@example.com",
+    "phone": "+234-803-555-4567",
+    "profession": "Doctor",
+    "hobbies": ["Running", "Cooking", "Gardening"]
+},
+{
+    "id": 7,
+    "name": "Hana Kim",
+    "country": "South Korea",
+    "dateOfBirth": "1988-12-05",
+    "email": "hana.kim@example.com",
+    "phone": "+82-10-555-3456",
+    "profession": "Product Manager",
+    "hobbies": ["K-pop", "Yoga", "Reading"]
+},
+{
+    "id": 8,
+    "name": "Oliver Brown",
+    "country": "UK",
+    "dateOfBirth": "1982-06-21",
+    "email": "oliver.brown@example.com",
+    "phone": "+44-20-555-7890",
+    "profession": "Architect",
+    "hobbies": ["Sketching", "Traveling", "Cycling"]
+},
+{
+    "id": 9,
+    "name": "Aisha Ali",
+    "country": "Egypt",
+    "dateOfBirth": "1994-08-11",
+    "email": "aisha.ali@example.com",
+    "phone": "+20-2-555-4321",
+    "profession": "Teacher",
+    "hobbies": ["Teaching", "Knitting", "Gardening"]
+},
+{
+    "id": 10,
+    "name": "Lucas Silva",
+    "country": "Brazil",
+    "dateOfBirth": "1992-02-14",
+    "email": "lucas.silva@example.com",
+    "phone": "+55-11-555-6789",
+    "profession": "Civil Engineer",
+    "hobbies": ["Soccer", "Cooking", "Movies"]
+}]
