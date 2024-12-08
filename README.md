@@ -14,6 +14,7 @@
 
 
 
+
 EquiSports: Sports Equipment Online Store
 EquiSports is a responsive e-commerce platform for browsing, purchasing, and reviewing sports equipment and accessories across various disciplines. It includes user-friendly features for a seamless shopping experience.
 🚀 Live Site
